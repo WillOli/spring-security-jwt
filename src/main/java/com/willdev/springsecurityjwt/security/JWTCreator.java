@@ -1,7 +1,5 @@
 package com.willdev.springsecurityjwt.security;
 
-import java.util.Arrays;
-import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
